@@ -159,8 +159,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -4 -29 54 1422 56 510")
-        (Scroll "-188 0")
-        (Zoom "82")
+        (Scroll "354 348")
+        (Zoom "164")
         (Occurrence "/"))
       (Path "D:\PROJECT\CIRCUIT\BVP\04V3\BVP_04V3.DSN")
       (Schematic "TOP LEVEL")
@@ -169,7 +169,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -4 -29 81 1453 84 542")
-        (Scroll "237 327")
+        (Scroll "0 576")
         (Zoom "154")
         (Occurrence "/F1"))
       (Path "D:\PROJECT\CIRCUIT\BVP\04V3\BVP_04V3.DSN")
@@ -179,8 +179,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -4 -29 0 1399 0 459")
-        (Scroll "167 513")
-        (Zoom "148")
+        (Scroll "-233 0")
+        (Zoom "77")
         (Occurrence "/A1"))
       (Path "D:\PROJECT\CIRCUIT\BVP\04V3\BVP_04V3.DSN")
       (Schematic "01 - OUTPUT")
@@ -194,6 +194,26 @@
         (Occurrence "/B1"))
       (Path "D:\PROJECT\CIRCUIT\BVP\04V3\BVP_04V3.DSN")
       (Schematic "02 - INPUT")
-      (Page "B - INPUT")))
+      (Page "B - INPUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -29 108 1480 112 570")
+        (Scroll "-85 0")
+        (Zoom "100")
+        (Occurrence "/E1"))
+      (Path "D:\PROJECT\CIRCUIT\BVP\04V3\BVP_04V3.DSN")
+      (Schematic "04 - MCU")
+      (Page "E - MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -29 135 1507 140 598")
+        (Scroll "-85 0")
+        (Zoom "100")
+        (Occurrence "/D1"))
+      (Path "D:\PROJECT\CIRCUIT\BVP\04V3\BVP_04V3.DSN")
+      (Schematic "03 - AMPLIFIER")
+      (Page "D - AMLIFIER")))
   (MPSSessionName "Shcheblykin")
   (ISPCBBASICLICENSE "false"))
