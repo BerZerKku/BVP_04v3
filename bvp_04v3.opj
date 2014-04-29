@@ -153,14 +153,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 876"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 880"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -4 -29 54 1422 56 510")
-        (Scroll "466 31")
-        (Zoom "154")
+        (Scroll "-217 0")
+        (Zoom "77")
         (Occurrence "/"))
       (Path "D:\PROJECT\CIRCUIT\BVP\04V3\BVP_04V3.DSN")
       (Schematic "TOP LEVEL")
@@ -168,52 +168,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -4 -29 81 1453 84 542")
-        (Scroll "-219 0")
+        (Placement "44 2 3 -1 -1 -4 -29 27 1399 28 486")
+        (Scroll "-331 -10")
         (Zoom "77")
         (Occurrence "/F1"))
       (Path "D:\PROJECT\CIRCUIT\BVP\04V3\BVP_04V3.DSN")
       (Schematic "05 - INTERFACE")
-      (Page "F - INTERFACE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -4 -29 0 1399 0 459")
-        (Scroll "-233 0")
-        (Zoom "77")
-        (Occurrence "/A1"))
-      (Path "D:\PROJECT\CIRCUIT\BVP\04V3\BVP_04V3.DSN")
-      (Schematic "01 - OUTPUT")
-      (Page "A - OUTPUT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -4 -29 27 1426 28 487")
-        (Scroll "-233 0")
-        (Zoom "77")
-        (Occurrence "/B1"))
-      (Path "D:\PROJECT\CIRCUIT\BVP\04V3\BVP_04V3.DSN")
-      (Schematic "02 - INPUT")
-      (Page "B - INPUT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -4 -29 108 1480 112 570")
-        (Scroll "-85 0")
-        (Zoom "100")
-        (Occurrence "/E1"))
-      (Path "D:\PROJECT\CIRCUIT\BVP\04V3\BVP_04V3.DSN")
-      (Schematic "04 - MCU")
-      (Page "E - MCU"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -4 -29 135 1507 140 598")
-        (Scroll "0 10")
-        (Zoom "100")
-        (Occurrence "/D1"))
-      (Path "D:\PROJECT\CIRCUIT\BVP\04V3\BVP_04V3.DSN")
-      (Schematic "03 - AMPLIFIER")
-      (Page "D - AMLIFIER")))
+      (Page "F - INTERFACE")))
   (MPSSessionName "Shcheblykin")
   (ISPCBBASICLICENSE "false"))
